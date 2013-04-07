@@ -2,6 +2,8 @@ haml-instant
 ============
 
 compile haml to html instantly in vim
+![Haml-instant screenshot](http://michalliu.github.io/haml-instant/images/screenshot.gif "Haml instant")
+
 
 Requirements
 ----
