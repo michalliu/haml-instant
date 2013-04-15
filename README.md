@@ -16,3 +16,11 @@ developed by [Tim Caswell](https://github.com/creationix/haml-js).Haml-instant s
    * [jsoncodecs](https://github.com/michalliu/jsoncodecs.vim)
 
 If both of them is installed. The js version will takes precedence in Windows system, ruby version in *nix and mac.
+
+Commands & Keymaps
+----
+* Command `OpenPreview` - open the preview window
+* Command `ClosePreview` - close the preview window
+* Keymap `<Leader>op` - open the preview window
+* Keymap `<Leader>cp` - close the preview window
+* Keymap `<Leader>tp` - toggle the preview window
